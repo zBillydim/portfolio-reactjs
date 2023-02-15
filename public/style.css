@@ -1,0 +1,6 @@
+.root{
+    background-image: url('./fundo.jpg');
+    padding: 25%;
+    background-size: cover;
+    margin: 0;
+}
